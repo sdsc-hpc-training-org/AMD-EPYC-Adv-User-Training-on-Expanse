@@ -36,9 +36,9 @@ The event is open to all users with an XSEDE portal account. Given the amount of
 ## Instructors<a name="instructors"></a>
 | **NAME** | **TITLE** | **ORG** | 
 | ---------- | ----------- | ----------- | 
-| Marty Kandes<a name="kandes"></a> [(bio)](x) |  Computational and Data Science Research Specialist  |  SDSC | 
-| Mark Klonower<a name="klonower"></a> [(bio)](x)  | Field Application Engineer |AMD| link |
+| Marty Kandes<a name="kandes"></a> [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  Computational and Data Science Research Specialist  |  SDSC | 
+| Mark Klonower<a name="klonower"></a> [(bio)](https://www.linkedin.com/in/mark-klonower-0b5a51/)  | Field Application Engineer |AMD| link |
 | Bob Sinkovits<a name="sinkovits"></a> [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | Director for Scientific Computing Applications | SDSC| 
-| Mahidhar Tatineni<a name="tatineni"></a> [(bio)](x)  | Director of User Services | SDSC |  |
+| Mahidhar Tatineni<a name="tatineni"></a> [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)  | Director of User Services | SDSC |  |
 | Mary Thomas<a name="thomas"></a> [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) | Computational Data Scientist | SDSC |
 
