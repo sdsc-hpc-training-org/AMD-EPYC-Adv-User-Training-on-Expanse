@@ -34,11 +34,11 @@ The event is open to all users with an XSEDE portal account. Given the amount of
 
 
 ## Instructors<a name="instructors"></a>
-| **NAME** | **TITLE** | **ORG** | **LINK** |
-| ---------- | ----------- | ----------- | ----------- |
-| Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist  |  SDSC | bio |
-| Mark Klonower<a name="klonower"></a> | Field Application Engineer |AMD| link |
-| Bob Sinkovits<a name="sinkovits"></a> | Director for Scientific Computing Applications | SDSC|  |
-| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services | SDSC |  |
-| Mary Thomas<a name="thomas"></a> | Computational Data Scientist | SDSC | https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html |
+| **NAME** | **TITLE** | **ORG** | 
+| ---------- | ----------- | ----------- | 
+| Marty Kandes<a name="kandes"></a> [BIO](x) |  Computational and Data Science Research Specialist  |  SDSC | 
+| Mark Klonower<a name="klonower"></a> [BIO](x)  | Field Application Engineer |AMD| link |
+| Bob Sinkovits<a name="sinkovits"></a> [BIO](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | Director for Scientific Computing Applications | SDSC| 
+| Mahidhar Tatineni<a name="tatineni"></a> [BIO](x)  | Director of User Services | SDSC |  |
+| Mary Thomas<a name="thomas"></a> [BIO]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) | Computational Data Scientist | SDSC |
 
