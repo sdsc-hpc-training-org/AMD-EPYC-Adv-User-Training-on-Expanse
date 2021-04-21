@@ -19,13 +19,26 @@ The event is open to all users with an XSEDE portal account. Given the amount of
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | 9:00 AM – 9:05 AM | Welcome & Introduction | Mary Thomas |
-| 9:05 AM – 9:35 AM | Introduction to 2nd Gen AMD EPYC™ Processors | 
-| 9:35 AM – 9:45 AM |  Q&A session |  Mark Klonower, Field Application Engineer, AMD
+| 9:05 AM – 9:35 AM | Introduction to 2nd Gen AMD EPYC™ Processors |  Mark Klonower |
+| 9:35 AM – 9:45 AM |  Q&A session |  Mark Klonower |
+| 9:45 AM – 10:25 AM  |  AOCC Compiler & AOCL Math Libraries
+| 10:25 AM – 10:35 AM  |   Q&A session | Marty Kandes, Computational and Data Science Research Specialist, SDSC
+| 10:35 AM – 11:15 AM  |   SLURM, Runtime Configurations, and Tuning
+| 11:15 AM – 11:25 AM  |   Q&A session | Mahidhar Tatineni |
+| 11:25 AM – 11:55 PM  |   30-minute break |  |
+| 11:55 AM – 12:35 PM  |   Profiling applications using AMD uProf | Bob Sinkovits |
+| 12:35 PM – 12:45 PM |  Q&A session | Bob Sinkovits |
+| 12:45 PM – 1:00 PM |  Final Q&A and Wrap-up | Mary Thomas |
+
 
 
 
 ## Instructors<a name="instructors"></a>
 | **NAME** | **TITLE** | **ORG** | **LINK** |
 | ---------- | ----------- | ----------- | ----------- |
-| Mark Klonower | Field Application Engineer |AMD| link |
-| Mary Thomas | Computational Data Scientist, SDSC | https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html |
+| Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist  |  SDSC |. bio |
+| Mark Klonower<a name="klonower"></a> | Field Application Engineer |AMD| link |
+| Bob Sinkovits<a name="sinkovits"></a> | Director for Scientific Computing Applications | SDSC|  |
+| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services | SDSC |  |
+| Mary Thomas<a name="thomas"></a> | Computational Data Scientist | SDSC | https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html |
+
