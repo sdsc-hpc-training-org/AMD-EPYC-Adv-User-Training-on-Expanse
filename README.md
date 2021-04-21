@@ -18,17 +18,17 @@ The event is open to all users with an XSEDE portal account. Given the amount of
 ## Agenda<a name="agenda"></a>
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
-| 9:00 AM – 9:05 AM | Welcome & Introduction | Mary Thomas |
-| 9:05 AM – 9:35 AM | Introduction to 2nd Gen AMD EPYC™ Processors |  Mark Klonower |
-| 9:35 AM – 9:45 AM |  Q&A session |  Mark Klonower |
-| 9:45 AM – 10:25 AM  |  AOCC Compiler & AOCL Math Libraries
-| 10:25 AM – 10:35 AM  |   Q&A session | Marty Kandes, Computational and Data Science Research Specialist, SDSC
+| 9:00 AM – 9:05 AM | Welcome & Introduction | Mary Thomas(#thomas) |
+| 9:05 AM – 9:35 AM | Introduction to 2nd Gen AMD EPYC™ Processors |  Mark Klonower(#klonower) |
+| 9:35 AM – 9:45 AM |  Q&A session |  Mark Klonower(#klonower) |
+| 9:45 AM – 10:25 AM  |  AOCC Compiler & AOCL Math Libraries| Marty Kandes(#kandes) |
+| 10:25 AM – 10:35 AM  |   Q&A session | Marty Kandes(#kandes) | Mahidhar Tatineni(#tatineni) |
 | 10:35 AM – 11:15 AM  |   SLURM, Runtime Configurations, and Tuning
-| 11:15 AM – 11:25 AM  |   Q&A session | Mahidhar Tatineni |
+| 11:15 AM – 11:25 AM  |   Q&A session | Mahidhar Tatineni(#tatineni) |
 | 11:25 AM – 11:55 PM  |   30-minute break |  |
-| 11:55 AM – 12:35 PM  |   Profiling applications using AMD uProf | Bob Sinkovits |
-| 12:35 PM – 12:45 PM |  Q&A session | Bob Sinkovits |
-| 12:45 PM – 1:00 PM |  Final Q&A and Wrap-up | Mary Thomas |
+| 11:55 AM – 12:35 PM  |   Profiling applications using AMD uProf | Bob Sinkovits(#sinkovits) |
+| 12:35 PM – 12:45 PM |  Q&A session | Bob Sinkovits(#sinkovits) |
+| 12:45 PM – 1:00 PM |  Final Q&A and Wrap-up | Mary Thomas(#thomas) |
 
 
 
