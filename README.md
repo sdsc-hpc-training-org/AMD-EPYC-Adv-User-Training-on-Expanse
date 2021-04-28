@@ -24,7 +24,7 @@ The event is open to all users with an XSEDE portal account. Given the amount of
 | 9:35 AM – 9:45 AM    |  Q&A session |  [Mark Klonower](#klonower) |
 | 9:45 AM – 10:25 AM   |  AOCC Compiler & AOCL Math Libraries [[download]](https://github.com/sdsc-hpc-training-org/AMD-EPYC-Adv-User-Training-on-Expanse/raw/main/introduction-to-aocc-and-aocl.pdf)| [Marty Kandes](#kandes) |
 | 10:25 AM – 10:35 AM  |   Q&A session | [Marty Kandes](#kandes) |
-| 10:35 AM – 11:15 AM  |   SLURM, Runtime Configurations, and Tuning [[download]](Expanse_SLURM_Runconfig_tuning_Tatineni.pdf) | [Mahidhar Tatineni](#tatineni) |
+| 10:35 AM – 11:15 AM  |   SLURM, Runtime Configurations, and Tuning [[download]](https://github.com/sdsc-hpc-training-org/AMD-EPYC-Adv-User-Training-on-Expanse/raw/main/Expanse_SLURM_Runconfig_tuning_Tatineni.pdf) | [Mahidhar Tatineni](#tatineni) |
 | 11:15 AM – 11:25 AM  |   Q&A session | [Mahidhar Tatineni](#tatineni) |
 | 11:25 AM – 11:55 PM  |   30-minute break |  |
 | 11:55 AM – 12:35 PM  |   Profiling applications using AMD uProf | [Bob Sinkovits](#sinkovits) |
