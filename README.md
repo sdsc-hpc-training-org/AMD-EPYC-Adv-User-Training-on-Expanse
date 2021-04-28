@@ -18,28 +18,27 @@ The event is open to all users with an XSEDE portal account. Given the amount of
 
 ## Agenda<a name="agenda"></a>
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
-| --- | ----------- | ----------- |
-| 9:00 AM – 9:05 AM | Welcome & Introduction | [Mary Thomas](#thomas) |
-| 9:05 AM – 9:35 AM | Introduction to 2nd Gen AMD EPYC™ Processors |  [Mark Klonower](#klonower) |
-| 9:35 AM – 9:45 AM |  Q&A session |  [Mark Klonower](#klonower) |
-| 9:45 AM – 10:25 AM  |  AOCC Compiler & AOCL Math Libraries [[presentation]](introduction-to-aocc-and-aocl.pdf)| [Marty Kandes](#kandes) |
+| --- | -----------    | ----------- |
+| 9:00 AM – 9:05 AM    | Welcome & Introduction | [Mary Thomas](#thomas) |
+| 9:05 AM – 9:35 AM    | Introduction to 2nd Gen AMD EPYC™ Processors |  [Mark Klonower](#klonower) |
+| 9:35 AM – 9:45 AM    |  Q&A session |  [Mark Klonower](#klonower) |
+| 9:45 AM – 10:25 AM   |  AOCC Compiler & AOCL Math Libraries [[download]](https://github.com/sdsc-hpc-training-org/AMD-EPYC-Adv-User-Training-on-Expanse/blob/main/introduction-to-aocc-and-aocl.pdf)| [Marty Kandes](#kandes) |
 | 10:25 AM – 10:35 AM  |   Q&A session | [Marty Kandes](#kandes) |
-| 10:35 AM – 11:15 AM  |   [SLURM, Runtime Configurations, and Tuning [[presentation]](https://github.com/sdsc-hpc-training-org/AMD-EPYC-Adv-User-Training-on-Expanse/blob/main/Expanse_SLURM_Runconfig_tuning_Tatineni.pdf) | [Mahidhar Tatineni](#tatineni) |
+| 10:35 AM – 11:15 AM  |   SLURM, Runtime Configurations, and Tuning [[download]](https://github.com/sdsc-hpc-training-org/AMD-EPYC-Adv-User-Training-on-Expanse/blob/main/Expanse_SLURM_Runconfig_tuning_Tatineni.pdf) | [Mahidhar Tatineni](#tatineni) |
 | 11:15 AM – 11:25 AM  |   Q&A session | [Mahidhar Tatineni](#tatineni) |
 | 11:25 AM – 11:55 PM  |   30-minute break |  |
 | 11:55 AM – 12:35 PM  |   Profiling applications using AMD uProf | [Bob Sinkovits](#sinkovits) |
-| 12:35 PM – 12:45 PM |  Q&A session | [Bob Sinkovits](#sinkovits) |
-| 12:45 PM – 1:00 PM |  Final Q&A and Wrap-up | [Mary Thomas](#thomas) |
+| 12:35 PM – 12:45 PM  |  Q&A session | [Bob Sinkovits](#sinkovits) |
+| 12:45 PM – 1:00 PM   |  Final Q&A and Wrap-up | [Mary Thomas](#thomas) |
 
 
 
 
 ## Instructors<a name="instructors"></a>
-| **NAME** | **TITLE** | **ORG** | 
-| ---------- | ----------- | ----------- | 
-| Marty Kandes<a name="kandes"></a> [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  Computational and Data Science Research Specialist  |  SDSC | 
-| Mark Klonower<a name="klonower"></a> [(bio)](https://www.linkedin.com/in/mark-klonower-0b5a51/)  | Field Application Engineer |AMD| link |
-| Bob Sinkovits<a name="sinkovits"></a> [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | Director for Scientific Computing Applications | SDSC| 
-| Mahidhar Tatineni<a name="tatineni"></a> [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)  | Director of User Services | SDSC |  |
-| Mary Thomas<a name="thomas"></a> [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) | Computational Data Scientist | SDSC |
-
+| **NAME** | **TITLE** | **ORG** |
+| ---------- | ----------- | ----------- |
+| Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
+| Mark Klonower<a name="klonower"></a>  | Field Application Engineer [(bio)](https://www.linkedin.com/in/mark-klonower-0b5a51/)  |AMD| 
+| Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
+| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |  |
+| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, HPC Training Lead [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
