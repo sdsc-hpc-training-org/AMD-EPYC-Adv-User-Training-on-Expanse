@@ -7,7 +7,7 @@ Repository for training material
 * [Overview](#overview)
 * [Agenda](#agenda)
 * [Instructors](#instructors)
-* [Video Recording](https://education.sdsc.edu/training/interactive/202104_amd_epyc/index.html)
+* [Interactive Video](https://education.sdsc.edu/training/interactive/202104_amd_epyc/index.html)
 
 ## Overview<a name="overview"></a>
 The complexity of the AMD EPYC architecture, with its large core counts, non-uniform memory access and distributed L3 caches, can make it challenging to obtain peak performance. We’ll cover a range of intermediate-to-advanced topics that will help you to make most effective use of Expanse and other EPYC-based systems. These include an overview of the EPYC architecture, AMD’s compilers and math libraries, strategies for mapping processes and tasks to compute cores, Slurm, application tuning and profiling tools.
